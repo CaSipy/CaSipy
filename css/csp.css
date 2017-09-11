@@ -212,7 +212,7 @@
  		transform: scale(1);
  	}
  }
- .keySkco1{animation: keySkco1 2s ease-out 1;width: 173px; }
+ /*.keySkco1{animation: keySkco1 2s ease-out 1;width: 173px; }
  @keyframes keySkco1{from{width: 0;}to{width: 173px;}}
  .keySkco2{animation: keySkco1 2s ease-out 1;width: 173px;animation-delay: 2s; }
  @keyframes keySkco1{from{width: 0;}to{width: 173px;}}
@@ -223,4 +223,4 @@
  .keySkco5{animation: keySkco1 2s ease-out 1;width: 173px;animation-delay: 8s; }
  @keyframes keySkco1{from{width: 0;}to{width: 173px;}}
  .keySkco6{animation: keySkco1 2s ease-out 1;width: 173px;animation-delay: 10s; }
- @keyframes keySkco1{from{width: 0;}to{width: 173px;}}
+ @keyframes keySkco1{from{width: 0;}to{width: 173px;}}*/
