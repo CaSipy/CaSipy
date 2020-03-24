@@ -22,7 +22,7 @@
   .column .tb3{width:900px;padding:15px 20px 15px 0}
   .column .gray,.column .gray2{color:#999999;word-break:break-all}
   .column .gray2{color:#666666}
-  .column .plate1,.column .plate2{width:430px;height:54px;font-size:16px;font-weight:bold;color:#5694C3}
+  .column .plate1,.column .plate2{width:430px;height:54px;font-size:16px;font-weight:bold;color:#5694C3;line-height: 54px}
   .column .plate1{width:900px;padding:0 50px}
   .column .plate1 .f16{font-size:14px;font-weight:normal;color:#333333}
   .column .plate1 .f12{font-size:12px;font-weight:normal;color:#999999}
@@ -127,6 +127,10 @@
  }
  .tb2KeyCon{
  	transform-style: preserve-3d;
+  display: flex;
+ }
+ .tb2KeyCon .tb2{
+  flex: 1;
  }
  .tb2LKey{
  	animation: tb2LKey 2s ease-out 1;
