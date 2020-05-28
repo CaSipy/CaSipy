@@ -239,7 +239,7 @@
  
  .mydream{
  	opacity: 0;
- 	transition: 4s; transition-property: opacity; transition-delay: 1.5s;
+ 	transition: 3s; transition-property: opacity; transition-delay: 1s;
  }
 
 
