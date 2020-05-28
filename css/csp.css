@@ -241,3 +241,25 @@
  	opacity: 0;
  	transition: 4s; transition-property: opacity; transition-delay: 1.5s;
  }
+
+
+ .skill{
+	 padding: auto;
+	 width: 100%;
+ }
+ .skill header{
+	 padding-left: 4vw;
+ }
+ .skill h1{
+	 font-size: 2.3vh;
+ }
+ .skill h2{
+	 font-size: 2vh;
+ }
+ .skill h3{
+	 font-size: 1.7vh;
+	 font-weight: normal;
+ }
+ .skill figure aside{
+	 padding-left: 1.5vw;
+ }
