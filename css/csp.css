@@ -263,3 +263,20 @@
  .skill figure aside{
 	 padding-left: 1.5vw;
  }
+ @media screen and (max-width: 640px) {
+    .column{
+		width: auto;
+	}
+	.skill h2{
+		font-size: 12px;
+		padding: 0px 36px;
+		font-weight: normal;
+	}
+	.skill h1{
+		font-size: 14px;
+	}
+	.skill h3{
+		font-size: 12px;
+    	font-weight: normal;
+	}
+}
